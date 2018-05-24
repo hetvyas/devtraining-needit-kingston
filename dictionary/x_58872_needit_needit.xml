@@ -2,12 +2,17 @@
 <database>
     <element label="NeedIt" max_length="40" name="x_58872_needit_needit" type="collection">
         <element attributes="ignore_filter_on_new=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" type="string"/>
+        <element label="Short desc" max_length="125" name="short_desc" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Request" max_length="125" name="u_request_type" type="string"/>
         <element attributes="edge_encryption_enabled=true" choice="1" default="WIP" label="State" mandatory="true" max_length="40" name="u_state" type="string">
             <choice>
                 <element label="Closed completed" sequence="0" value="completed"/>
                 <element label="Close Incompleted" sequence="1" value="Incompleted"/>
                 <element label="Work In Progress" sequence="2" value="WIP"/>
             </choice>
+        </element>
+        <element attributes="edge_encryption_enabled=true" choice="1" label="What needed" max_length="40" name="u_what_needed" type="string">
+            <choice/>
         </element>
     </element>
 </database>
