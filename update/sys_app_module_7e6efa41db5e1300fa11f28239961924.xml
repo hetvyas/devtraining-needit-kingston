@@ -7,38 +7,38 @@
         <content_page/>
         <device_type/>
         <filter/>
-        <hint>List of all NeedIt records in the database.</hint>
+        <hint>test</hint>
         <homepage/>
         <image/>
-        <link_type>NEW</link_type>
+        <link_type>LIST</link_type>
         <map_page/>
-        <mobile_title>NeedIts</mobile_title>
+        <mobile_title>AllListModule</mobile_title>
         <mobile_view_name>Mobile</mobile_view_name>
         <name>x_58872_needit_needit</name>
-        <order>100</order>
+        <order>400</order>
         <override_menu_roles>false</override_menu_roles>
         <query/>
         <report/>
-        <roles>x_58872_needit.needit_user</roles>
+        <roles/>
         <sys_class_name>sys_app_module</sys_class_name>
         <sys_created_by>admin</sys_created_by>
-        <sys_created_on>2018-05-23 12:06:22</sys_created_on>
+        <sys_created_on>2018-05-24 11:13:04</sys_created_on>
         <sys_domain>global</sys_domain>
         <sys_domain_path>/</sys_domain_path>
-        <sys_id>2b318a7cdb921300fa11f28239961924</sys_id>
-        <sys_mod_count>10</sys_mod_count>
-        <sys_name>All New Here</sys_name>
+        <sys_id>7e6efa41db5e1300fa11f28239961924</sys_id>
+        <sys_mod_count>3</sys_mod_count>
+        <sys_name>AllListModule</sys_name>
         <sys_overrides/>
         <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
         <sys_policy/>
         <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
-        <sys_update_name>sys_app_module_2b318a7cdb921300fa11f28239961924</sys_update_name>
+        <sys_update_name>sys_app_module_7e6efa41db5e1300fa11f28239961924</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2018-05-24 12:06:04</sys_updated_on>
+        <sys_updated_on>2018-05-24 11:42:19</sys_updated_on>
         <timeline_page/>
-        <title>All New Here</title>
+        <title>AllListModule</title>
         <uncancelable>false</uncancelable>
-        <view_name>All</view_name>
+        <view_name>AllList1</view_name>
         <window_name/>
     </sys_app_module>
 </record_update>

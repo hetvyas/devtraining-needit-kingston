@@ -5,13 +5,13 @@
             <element>number</element>
             <position>0</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2018-05-23 12:29:14</sys_created_on>
-            <sys_id>da768e70dbd21300fa11f28239961953</sys_id>
+            <sys_created_on>2018-05-24 11:46:19</sys_created_on>
+            <sys_id>6736c7c5db5e1300fa11f282399619b4</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_58872_needit_needit" sys_domain="global" view="Default view">343482fcdb921300fa11f28239961987</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2018-05-23 12:29:14</sys_updated_on>
+            <sys_updated_on>2018-05-24 11:46:19</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -19,27 +19,13 @@
             <element>u_state</element>
             <position>1</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2018-05-23 12:29:14</sys_created_on>
-            <sys_id>5e768e70dbd21300fa11f28239961953</sys_id>
+            <sys_created_on>2018-05-24 11:46:19</sys_created_on>
+            <sys_id>e736c7c5db5e1300fa11f282399619b4</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_58872_needit_needit" sys_domain="global" view="Default view">343482fcdb921300fa11f28239961987</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2018-05-23 12:29:14</sys_updated_on>
-            <sys_user/>
-            <type/>
-        </sys_ui_element>
-        <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>short_desc</element>
-            <position>2</position>
-            <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2018-05-24 07:07:30</sys_created_on>
-            <sys_id>8b668281dbda1300fa11f28239961999</sys_id>
-            <sys_mod_count>0</sys_mod_count>
-            <sys_ui_formatter/>
-            <sys_ui_section caption="NULL" display_value="" name="x_58872_needit_needit" sys_domain="global" view="Default view">343482fcdb921300fa11f28239961987</sys_ui_section>
-            <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2018-05-24 07:07:30</sys_updated_on>
+            <sys_updated_on>2018-05-24 11:46:19</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
